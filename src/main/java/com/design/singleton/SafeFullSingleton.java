@@ -2,6 +2,7 @@ package com.design.singleton;
 
 /**
  * 基于双重校验和 volatile 关键字的双重校验机制
+ * 但是如果使用反射，会存在问题
  *
  * @author zhangneng
  */
