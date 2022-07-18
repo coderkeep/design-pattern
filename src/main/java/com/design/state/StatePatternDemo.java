@@ -4,6 +4,8 @@ import java.util.Objects;
 
 /**
  * 状态模式
+ * 将状态的管理和切换逻辑全部转移到 context 对象中处理。
+ * 类比 有限状态机
  *
  * @author zhangneng
  */
